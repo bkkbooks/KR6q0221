@@ -24,7 +24,7 @@ editions:
 - short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0221_000.yaml, hash: 'sha256:bc5c9cc0f72b3e712a72286306c47e2224bedd698dbc027333321306ca033c41'}
+  - {seq: 0, filename: KR6q0221_000.yaml, hash: 'sha256:9fd1d61cfc2c4442edeba43a589836535e1d41f46050c0a505b0e70161926ef0'}
   - {seq: 1, filename: KR6q0221_001.yaml, hash: 'sha256:dcc6947ed259582ee625b652a2c3ef5147c3d122690ae969b641e07b4032d97f'}
   - {seq: 2, filename: KR6q0221_002.yaml, hash: 'sha256:eee63a149679167f1be9a45a1a1ae3a3268b286f29e58be7c67b618343dc25e9'}
   - {seq: 3, filename: KR6q0221_003.yaml, hash: 'sha256:215672888a7291184558ef55066b5fa6a2bc258d761f7cf13192a00c60116772'}
@@ -59,7 +59,7 @@ assets:
   - {seq: 32, filename: KR6q0221_032.yaml, hash: 'sha256:3ba1603620344fc377965b4ee26e7cf8ddf4725d161c677414820528c2bef417'}
   - {seq: 33, filename: KR6q0221_033.yaml, hash: 'sha256:950a0eef90b5b37bcad32f9b4de90734ce0265cbd3128bf8369f0087d64cb507'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0221_000.markers.yaml, hash: 'sha256:d361071a2e6f003f7fdb418265642c4d03e0643235d7a83e20823855b267db22'}
+  - {seq: 0, role: markers, filename: assets/KR6q0221_000.markers.yaml, hash: 'sha256:9c66d92e2421af671f28d4df005542727b8a15e2b0b23d109d89dc121388b876'}
   - {seq: 1, role: markers, filename: assets/KR6q0221_001.markers.yaml, hash: 'sha256:fcab1fe9b0786e74a6d9089c442af52f5a0a98462ab8b2b7e074c63c03c36819'}
   - {seq: 2, role: markers, filename: assets/KR6q0221_002.markers.yaml, hash: 'sha256:ed8116187e920c478de9f16baa94e1cc786b66bc0bd9f6414dcb93c284330482'}
   - {seq: 3, role: markers, filename: assets/KR6q0221_003.markers.yaml, hash: 'sha256:33c432f249807fd6bf618663c7675f5f6f766ce8d5ee274831b3f5bfa0c92906'}
@@ -98,7 +98,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0221_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -108,7 +108,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0221_J_000-mulu-2
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -118,7 +118,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0221_J_000-mulu-3
     span:
-    - front
+    - body
     - 832
     - 832
   label: 序
@@ -128,7 +128,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0221_J_000-mulu-4
     span:
-    - front
+    - body
     - 1212
     - 1212
   label: 天界覺浪盛禪師全錄序
@@ -138,7 +138,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0221_J_000-mulu-5
     span:
-    - front
+    - body
     - 2398
     - 2398
   label: 龍湖寶筏語錄序
@@ -148,7 +148,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0221_J_000-mulu-6
     span:
-    - front
+    - body
     - 2930
     - 2930
   label: 覺浪大師歸壽昌序
@@ -158,7 +158,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0221_J_000-mulu-7
     span:
-    - front
+    - body
     - 3991
     - 3991
   label: 壽昌覺浪大師語錄序
@@ -168,7 +168,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0221_J_000-mulu-8
     span:
-    - front
+    - body
     - 4160
     - 4160
   label: 圓通語錄序
@@ -178,7 +178,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0221_J_000-mulu-9
     span:
-    - front
+    - body
     - 4584
     - 4584
   label: 洪都語錄序
@@ -188,7 +188,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0221_J_000-mulu-10
     span:
-    - front
+    - body
     - 4913
     - 4913
   label: 靈谷語錄序
@@ -198,7 +198,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0221_J_000-mulu-11
     span:
-    - front
+    - body
     - 5592
     - 5592
   label: 金陵語錄序
@@ -208,7 +208,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0221_J_000-mulu-12
     span:
-    - front
+    - body
     - 6357
     - 6357
   label: 鳩茲語錄序
@@ -218,7 +218,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0221_J_000-mulu-13
     span:
-    - front
+    - body
     - 6634
     - 6634
   label: 覺浪和尚語錄序
@@ -228,7 +228,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0221_J_000-mulu-14
     span:
-    - front
+    - body
     - 7455
     - 7455
   label: 天界初錄序
@@ -238,7 +238,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0221_J_000-mulu-15
     span:
-    - front
+    - body
     - 7907
     - 7907
   label: 崇先語錄序
@@ -248,7 +248,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0221_J_000-mulu-16
     span:
-    - front
+    - body
     - 8478
     - 8478
   label: 目次
@@ -9924,7 +9924,7 @@ table_of_contents:
   label: 助刻姓氏
   type: mulu
   level: 1
-hash: sha256:2fe1dcfe5d6404621699e2f1f550776e58ac8a5b1b6fe4c33a851fa66690db72
+hash: sha256:6765c102a00186c5e0035c9eed925bcb6a06077dc933bcac986e0aed51f8a305
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
